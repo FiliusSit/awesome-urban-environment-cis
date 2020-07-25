@@ -14,3 +14,21 @@
 
 * [Максим Кац](https://www.youtube.com/channel/UCUGfDbfRIx51kJGGHIFo8Rw)
     -  [Урбанистика](https://www.youtube.com/watch?v=B0PALhckf8w&list=PLVqpOPG2Lex8xkbW7xUdLjILbpCQeV22q)
+
+## Карты, ГИС и транспортные сервисы
+
+Помимо всем известных картографических приложений Яндекса, Google, Apple и 2GIS существует много других полезных геоинформационных сервисов.
+
+* [OpenStreetMap](https://www.openstreetmap.org) (там есть, например, велосипедная карта и неучтённые в других картах детали рельефа)
+* Публичная [кадастровая карта](https://pkk.rosreestr.ru/) Росреестра
+* Картографические сервисы на основе Википедии
+    - Официальное [приложение Википедии](https://en.wikipedia.org/wiki/Help:Mobile_access#Official_apps) умеет показывать поблизости достопримечательности и другие точки интереса
+    - Веб-сервис <https://wiki-map.com> как альтернатива
+    - [Wikimedia Maps](https://maps.wikimedia.org) ещё только развивается, но в будущем, возможно, будет уметь больше
+* [Варламов-бот](https://telegram.me/VarlamovBot) в Telegram – архив старых фотографий вашего города
+* [Windy](https://www.windy.com) - состояние погоды и атмосферы в реальном времени, **загрязнение воздуха**, мониторинг лесных пожаров
+* [OpenWeatherMap](https://openweathermap.org/) - актуальная погодная информация (доступны города в любой точке мира)
+* [Умный транспорт](https://play.google.com/store/apps/details?id=ru.bus62.SmartTransport) - приложение для отслеживания транспорта в городах в реальном времени через GPS
+* [Transportr](https://transportr.app/) - бесплатный ассистент общественного транспорта без рекламы и без отслеживания с открытым кодом 
+* [pMetro](https://f-droid.org/packages/com.utyf.pmetro) и <http://pmetro.su> - вычисление наикратчайшего пути в метро
+* [Wi-Fi в метро](https://github.com/mosmetro-android/mosmetro-android) - автоматическая авторизация Wi-Fi в метро Москвы
