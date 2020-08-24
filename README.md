@@ -24,7 +24,7 @@
    - [Инженерные системы](https://www.youtube.com/watch?v=-T0KRiEN_NQ&list=PL645E3230E9A802A9)
    - [Технадзор](https://www.youtube.com/watch?v=BV4g0kB1slM&list=PL9J02xTJy2BvSOV7VYmt6-t0-u3kD8-37)
 
-## Карты, ГИС и транспортные сервисы
+## Карты и ГИС
 
 Помимо всем известных картографических приложений Яндекса, Google, Apple и 2GIS существует много других полезных геоинформационных сервисов.
 
@@ -40,6 +40,10 @@
 * [NASA WorldView](https://worldview.earthdata.nasa.gov/) - спутниковые снимки Земли за любой период для анализа атмосферы и рельефа
 * [USGS EarthExplorer](https://earthexplorer.usgs.gov/) - архивные спутниковые снимки Земли с 1999 года
 * [OpenWeatherMap](https://openweathermap.org/) - актуальная погодная информация (доступны города в любой точке мира)
+* [Спутниковые снимки Байкала](http://sputnik.irk.ru/main/baikal/last)
+
+## Транспортные сервисы
+
 * [Умный транспорт](https://play.google.com/store/apps/details?id=ru.bus62.SmartTransport) - приложение для отслеживания транспорта в городах в реальном времени через GPS
 * [Transportr](https://transportr.app/) - бесплатный ассистент общественного транспорта без рекламы и без отслеживания с открытым кодом 
 * [pMetro](https://f-droid.org/packages/com.utyf.pmetro) и <http://pmetro.su> - вычисление наикратчайшего пути в метро
