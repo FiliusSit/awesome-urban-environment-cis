@@ -55,6 +55,7 @@
 * [Статистика отрасли от МинКомСвязи](https://digital.gov.ru/ru/pages/statistika-otrasli/)
 * Оптоволокно
     - [Кровеносная система мирового интернета](https://habr.com/ru/company/rootwelt/blog/305634/) - оптоволоконные сети по всему миру
+    - [Backbone Networks in Russia](https://www.comnews.ru/sites/default/files2019/2020-01/stposter200.pdf) - наиболее полная карта магистральных оптоволоконных сетей по всем провайдерам на 2019 год
     - [Топ-10 магистральных сетей России](http://rubroad.ru/magazine/providers/4530-top)
     - [Ростелеком](https://www.company.rt.ru/about/net/magistr/) - карта за 2014 год
     - [RETN](https://retn.net/ru/networkmap/)
