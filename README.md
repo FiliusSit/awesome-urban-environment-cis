@@ -40,6 +40,7 @@
 * [NASA WorldView](https://worldview.earthdata.nasa.gov/) - спутниковые снимки Земли за любой период для анализа атмосферы и рельефа
 * [USGS EarthExplorer](https://earthexplorer.usgs.gov/) - архивные спутниковые снимки Земли с 1999 года
 * [OpenWeatherMap](https://openweathermap.org/) - актуальная погодная информация (доступны города в любой точке мира)
+* [Recyclemap](https://recyclemap.ru/) - пункты сбора и переработки мусора в вашем городе
 * [Спутниковые снимки Байкала](http://sputnik.irk.ru/main/baikal/last)
 
 ## Транспортные сервисы
